@@ -11,9 +11,10 @@
 | Alan Ribeiro do Carmo | 10428496@mackenzista.com.br | 10428496 |
 | Jean Pazzini Domingues | 10428555@mackenzista.com.br | 10428555 |
 | Wendell Rodrigues da Costa | 10420319@mackenzista.com.br | 10420319 |
-| Leandro Zerbinatti | leandro.zerbinatti@mackenzie.br | Não informado no ambiente; professor/orientador na documentação original |
 
-A composição acima foi transcrita da documentação acadêmica existente no repositório. O grupo discente identificado possui três alunos; a especificação da disciplina exige grupos de no mínimo três e no máximo quatro alunos.
+Docente/orientador identificado na documentação original: Leandro Zerbinatti, leandro.zerbinatti@mackenzie.br. O RA dele não foi informado como integrante discente.
+
+A composição discente acima foi transcrita da documentação acadêmica existente no repositório. O grupo identificado possui três alunos, atendendo ao requisito de no mínimo três e no máximo quatro alunos.
 
 ## 3. Resumo
 
@@ -107,7 +108,7 @@ Espera-se identificar características associadas à previsão de satisfação, 
 
 ## 9. Referências
 
-[1] RIBEIRO DO CARMO, A.; DOMINGUES, J. P.; COSTA, W. R.; ZERBINATTI, L. *Documentação Projeto IA V.1*. Documento acadêmico fornecido no repositório, 2026.
+[1] RIBEIRO DO CARMO, A.; DOMINGUES, J. P.; COSTA, W. R.; ZERBINATTI, L. *Documentação acadêmica do projeto*. Documento fornecido no repositório em [Doc/trab_IA.docx](../Doc/trab_IA.docx), 2026.
 
 [2] PEDREGOSA, F. et al. Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, v. 12, p. 2825-2830, 2011. Disponível em: https://scikit-learn.org/. Acesso em: 15 set. 2026.
 

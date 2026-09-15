@@ -35,13 +35,14 @@ Na auditoria da execução atual, a base possui 207 linhas, não possui valores 
 
 ```text
 Data/                         fonte original preservada
- data/raw/                    cópia organizada da fonte
+data/raw/                     cópia organizada da fonte
+data/dataset_description.md   descrição e dicionário de dados
 notebooks/                    quatro etapas executáveis
 src/                          funções reutilizáveis
 results/figures/              gráficos gerados
 results/metrics/              métricas, relatórios e importâncias
 results/models/               pipelines treinados
- docs/metodologia.md          decisões metodológicas
+docs/metodologia.md           decisões metodológicas
 reports/relatorio_projeto_n1.md relatório da entrega do primeiro bimestre
 run_project.py                execução ponta a ponta
 ```
@@ -83,9 +84,11 @@ Esses números dependem do split fixo e não devem ser generalizados para toda a
 A amostra de 207 registros é pequena e não necessariamente representa toda a população de clientes. Devem ser considerados privacidade, anonimização, segurança de acesso, qualidade dos dados, viés amostral, transparência e risco de interpretação incorreta. O modelo é experimental/acadêmico: suas previsões não são decisões definitivas sobre clientes e qualquer uso requer avaliação humana, revisão metodológica e monitoramento.
 
 ## Integrantes
-Alan Ribeiro do Carmo (RA 10428496), Jean Pazzini Domingues (RA 10428555), Wendell Rodrigues da Costa (RA 10420319) e Leandro Zerbinatti (RA não informado no ambiente; professor/orientador na documentação original).
+Alan Ribeiro do Carmo (RA 10428496), Jean Pazzini Domingues (RA 10428555) e Wendell Rodrigues da Costa (RA 10420319).
+
+Docente/orientador identificado na documentação original: Leandro Zerbinatti, leandro.zerbinatti@mackenzie.br. O RA dele não é aplicável ou não foi informado como integrante discente.
 
 ## Referências
-- Documentação do projeto: `Doc/Documentação Projeto IA V.1.doc`.
+- Documentação acadêmica fornecida: [Doc/trab_IA.docx](Doc/trab_IA.docx).
 - Relatório acadêmico completo: [reports/relatorio_projeto_n1.md](reports/relatorio_projeto_n1.md).
 - Documentação oficial do pandas, Matplotlib, scikit-learn e Jupyter.

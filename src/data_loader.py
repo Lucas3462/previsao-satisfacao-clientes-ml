@@ -1,8 +1,9 @@
-# Integrantes: Alan Ribeiro do Carmo (10428496), Jean Pazzini Domingues (10428555), Wendell Rodrigues da Costa (10420319) e Leandro Zerbinatti (RA não informado no ambiente).
+# Integrantes: Alan Ribeiro do Carmo (10428496), Jean Pazzini Domingues (10428555) e Wendell Rodrigues da Costa (10420319).
+# Docente/orientador: Leandro Zerbinatti (leandro.zerbinatti@mackenzie.br).
 # Síntese: carregamento, validação e criação do target a partir do dataset.
 # Histórico:
 # Data | Autor | Alteração
-# 2026-09-15 | GitHub Copilot | Implementação e auditoria do carregamento e target.
+# 2026-09-15 | GitHub Copilot | Implementação e auditoria do carregamento e target do N1.
 
 from pathlib import Path
 from typing import Dict, Tuple

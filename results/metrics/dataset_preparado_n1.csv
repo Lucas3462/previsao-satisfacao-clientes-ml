@@ -1,0 +1,208 @@
+ID_Resposta,Faixa_etaria,Canal_de_atendimento,Tempo_de_espera_minutos,Problema_foi_resolvido,Precisou_contato_novamente,Atendimento_foi_cordial,Facilidade_para_resolver_1_a_5,Nota_para_o_atendimento_1_a_5,Voltaria_a_comprar,Satisfacao
+1,41-60,Chat no site,6,Nao,Nao,Sim,1,4,Nao,1
+2,26-40,WhatsApp,4,Sim,Nao,Sim,2,5,Sim,1
+3,41-60,Telefone,11,Sim,Nao,Sim,2,5,Sim,1
+4,41-60,Chat no site,5,Sim,Sim,Sim,3,3,Nao,0
+5,18-25,Telefone,16,Sim,Nao,Nao,4,5,Sim,1
+6,60+,WhatsApp,4,Sim,Nao,Sim,3,5,Sim,1
+7,41-60,E-mail,30,Sim,Nao,Sim,4,5,Sim,1
+8,41-60,Chat no site,4,Sim,Sim,Sim,4,5,Sim,1
+9,18-25,Chat no site,4,Sim,Nao,Sim,4,5,Sim,1
+10,26-40,WhatsApp,8,Nao,Sim,Sim,1,2,Nao,0
+11,26-40,WhatsApp,1,Sim,Nao,Sim,4,5,Sim,1
+12,60+,Presencial,6,Sim,Nao,Sim,4,4,Sim,1
+13,26-40,WhatsApp,1,Sim,Nao,Nao,3,4,Nao,1
+14,41-60,WhatsApp,1,Sim,Nao,Sim,4,5,Sim,1
+15,26-40,Telefone,8,Sim,Nao,Sim,4,5,Sim,1
+16,18-25,Chat no site,6,Nao,Nao,Sim,1,1,Sim,0
+17,26-40,Presencial,13,Sim,Nao,Nao,2,3,Sim,0
+18,18-25,WhatsApp,6,Sim,Nao,Sim,3,5,Sim,1
+19,41-60,Presencial,22,Sim,Nao,Sim,3,4,Sim,1
+20,26-40,WhatsApp,9,Sim,Nao,Sim,4,5,Sim,1
+21,41-60,Telefone,11,Sim,Nao,Sim,3,4,Sim,1
+22,26-40,Chat no site,8,Nao,Sim,Nao,1,3,Nao,0
+23,60+,WhatsApp,6,Sim,Nao,Sim,4,5,Sim,1
+24,41-60,WhatsApp,3,Sim,Nao,Sim,4,5,Sim,1
+25,41-60,Telefone,8,Nao,Sim,Sim,3,5,Sim,1
+26,18-25,Presencial,5,Sim,Nao,Sim,5,5,Sim,1
+27,26-40,Telefone,7,Nao,Sim,Nao,1,2,Nao,0
+28,18-25,Presencial,12,Sim,Nao,Sim,5,5,Sim,1
+29,18-25,E-mail,34,Sim,Nao,Sim,2,4,Nao,1
+30,41-60,Telefone,21,Sim,Nao,Nao,3,4,Nao,1
+31,41-60,Chat no site,1,Sim,Nao,Nao,3,4,Sim,1
+32,60+,WhatsApp,7,Nao,Sim,Sim,2,3,Nao,0
+33,26-40,WhatsApp,3,Sim,Nao,Sim,2,5,Nao,1
+34,26-40,E-mail,30,Sim,Nao,Sim,3,4,Sim,1
+35,26-40,Chat no site,4,Sim,Sim,Sim,2,5,Sim,1
+36,18-25,WhatsApp,1,Sim,Nao,Sim,4,5,Sim,1
+37,18-25,Telefone,17,Nao,Sim,Sim,3,4,Nao,1
+38,26-40,Telefone,8,Nao,Sim,Nao,1,2,Sim,0
+39,18-25,E-mail,18,Sim,Nao,Nao,3,5,Sim,1
+40,41-60,Telefone,6,Sim,Nao,Nao,2,3,Nao,0
+41,26-40,Telefone,8,Sim,Nao,Nao,2,3,Sim,0
+42,41-60,WhatsApp,7,Sim,Nao,Sim,4,5,Sim,1
+43,41-60,Telefone,10,Nao,Sim,Sim,2,3,Sim,0
+44,26-40,Chat no site,5,Sim,Nao,Sim,5,5,Nao,1
+45,41-60,E-mail,29,Sim,Nao,Sim,3,4,Nao,1
+46,41-60,Telefone,19,Sim,Nao,Sim,4,4,Sim,1
+47,26-40,WhatsApp,5,Nao,Sim,Sim,2,2,Nao,0
+48,26-40,WhatsApp,2,Sim,Nao,Sim,4,4,Sim,1
+49,41-60,Chat no site,7,Sim,Nao,Sim,3,5,Sim,1
+50,18-25,E-mail,21,Sim,Nao,Sim,3,5,Sim,1
+51,18-25,WhatsApp,9,Sim,Nao,Sim,3,5,Sim,1
+52,18-25,WhatsApp,7,Sim,Nao,Sim,3,3,Sim,0
+53,41-60,Telefone,11,Sim,Nao,Sim,4,5,Sim,1
+54,41-60,WhatsApp,6,Sim,Nao,Nao,3,4,Sim,1
+55,41-60,E-mail,46,Nao,Nao,Nao,1,3,Nao,0
+56,41-60,WhatsApp,11,Sim,Nao,Sim,5,4,Sim,1
+57,26-40,WhatsApp,6,Sim,Sim,Sim,5,5,Sim,1
+58,26-40,Presencial,16,Nao,Nao,Sim,1,4,Sim,1
+59,18-25,WhatsApp,8,Sim,Nao,Sim,4,5,Sim,1
+60,18-25,WhatsApp,3,Sim,Nao,Nao,2,4,Sim,1
+61,41-60,WhatsApp,6,Sim,Nao,Sim,3,5,Sim,1
+62,26-40,WhatsApp,5,Nao,Sim,Sim,1,3,Nao,0
+63,26-40,WhatsApp,6,Sim,Nao,Sim,5,5,Sim,1
+64,41-60,WhatsApp,3,Sim,Nao,Sim,4,5,Sim,1
+65,26-40,WhatsApp,1,Nao,Sim,Nao,1,2,Sim,0
+66,26-40,WhatsApp,1,Sim,Sim,Sim,5,4,Nao,1
+67,26-40,Telefone,5,Sim,Nao,Sim,2,5,Sim,1
+68,26-40,Chat no site,3,Sim,Nao,Sim,2,5,Sim,1
+69,18-25,WhatsApp,5,Sim,Nao,Sim,4,5,Sim,1
+70,26-40,WhatsApp,11,Sim,Nao,Nao,3,4,Sim,1
+71,18-25,Telefone,17,Sim,Nao,Nao,3,4,Nao,1
+72,26-40,E-mail,14,Sim,Nao,Sim,2,4,Sim,1
+73,41-60,E-mail,28,Sim,Nao,Sim,3,4,Sim,1
+74,18-25,WhatsApp,4,Nao,Nao,Sim,4,4,Sim,1
+75,18-25,WhatsApp,5,Sim,Nao,Sim,4,5,Nao,1
+76,26-40,WhatsApp,6,Sim,Nao,Nao,3,3,Nao,0
+77,26-40,WhatsApp,7,Sim,Nao,Sim,3,5,Sim,1
+78,41-60,Telefone,10,Sim,Nao,Sim,3,4,Sim,1
+79,26-40,Telefone,17,Sim,Nao,Nao,1,3,Sim,0
+80,41-60,WhatsApp,2,Sim,Sim,Sim,4,4,Sim,1
+81,41-60,WhatsApp,6,Nao,Sim,Sim,3,4,Sim,1
+82,26-40,Telefone,26,Sim,Nao,Sim,2,4,Sim,1
+83,41-60,WhatsApp,6,Sim,Nao,Sim,3,5,Sim,1
+84,18-25,E-mail,41,Nao,Sim,Sim,1,2,Nao,0
+85,18-25,WhatsApp,6,Sim,Nao,Sim,3,3,Nao,0
+86,18-25,Presencial,18,Sim,Nao,Nao,3,4,Sim,1
+87,41-60,WhatsApp,5,Sim,Nao,Nao,1,5,Sim,1
+88,26-40,E-mail,23,Sim,Nao,Sim,4,5,Sim,1
+89,18-25,E-mail,16,Sim,Nao,Sim,4,5,Nao,1
+90,26-40,Presencial,17,Nao,Sim,Sim,1,3,Nao,0
+91,18-25,E-mail,15,Sim,Nao,Nao,1,4,Nao,1
+92,41-60,Chat no site,6,Sim,Nao,Sim,3,4,Sim,1
+93,26-40,Chat no site,7,Sim,Nao,Sim,4,4,Sim,1
+94,26-40,Chat no site,5,Nao,Sim,Sim,1,3,Sim,0
+95,26-40,WhatsApp,5,Sim,Nao,Sim,3,4,Sim,1
+96,26-40,Telefone,14,Sim,Nao,Sim,2,5,Sim,1
+97,26-40,Telefone,10,Sim,Nao,Sim,4,5,Sim,1
+98,18-25,E-mail,35,Sim,Nao,Sim,2,3,Nao,0
+99,18-25,Telefone,2,Sim,Nao,Nao,3,3,Sim,0
+100,60+,WhatsApp,5,Sim,Nao,Nao,3,2,Sim,0
+101,60+,Chat no site,1,Sim,Nao,Sim,5,5,Sim,1
+102,41-60,WhatsApp,1,Sim,Nao,Sim,3,5,Sim,1
+103,18-25,WhatsApp,9,Sim,Nao,Sim,4,5,Sim,1
+104,60+,Telefone,16,Sim,Nao,Nao,1,4,Sim,1
+105,41-60,Telefone,8,Sim,Nao,Sim,4,5,Sim,1
+106,41-60,WhatsApp,1,Sim,Nao,Nao,2,4,Sim,1
+107,26-40,WhatsApp,1,Sim,Nao,Sim,3,3,Sim,0
+108,18-25,WhatsApp,4,Sim,Nao,Nao,3,5,Sim,1
+109,18-25,WhatsApp,12,Sim,Nao,Sim,2,5,Sim,1
+110,60+,WhatsApp,7,Sim,Nao,Sim,4,5,Sim,1
+111,26-40,Chat no site,3,Sim,Nao,Sim,4,5,Sim,1
+112,18-25,WhatsApp,7,Sim,Nao,Sim,4,4,Sim,1
+113,26-40,Presencial,4,Nao,Sim,Sim,1,4,Nao,1
+114,26-40,E-mail,21,Sim,Nao,Sim,3,4,Sim,1
+115,18-25,Telefone,12,Sim,Nao,Sim,4,5,Sim,1
+116,41-60,WhatsApp,5,Sim,Nao,Sim,2,3,Sim,0
+117,41-60,Telefone,16,Sim,Nao,Sim,2,4,Nao,1
+118,41-60,E-mail,28,Sim,Nao,Sim,4,5,Sim,1
+119,26-40,Chat no site,6,Sim,Nao,Nao,3,4,Sim,1
+120,26-40,E-mail,17,Nao,Nao,Sim,2,4,Nao,1
+121,26-40,Telefone,16,Sim,Nao,Sim,5,5,Sim,1
+122,26-40,Chat no site,8,Sim,Nao,Nao,3,4,Nao,1
+123,18-25,WhatsApp,3,Sim,Nao,Nao,3,5,Sim,1
+124,26-40,Chat no site,3,Sim,Nao,Sim,5,5,Sim,1
+125,18-25,WhatsApp,9,Sim,Nao,Nao,3,3,Nao,0
+126,26-40,Chat no site,4,Sim,Nao,Sim,3,4,Nao,1
+127,26-40,E-mail,40,Sim,Nao,Sim,3,5,Sim,1
+128,18-25,WhatsApp,4,Nao,Nao,Sim,2,4,Sim,1
+129,18-25,Telefone,19,Sim,Nao,Sim,3,4,Sim,1
+130,26-40,WhatsApp,6,Sim,Nao,Sim,3,4,Sim,1
+131,18-25,Chat no site,5,Sim,Nao,Sim,5,5,Sim,1
+132,60+,WhatsApp,10,Sim,Nao,Sim,4,5,Sim,1
+133,26-40,Presencial,12,Sim,Nao,Sim,3,4,Sim,1
+134,26-40,WhatsApp,3,Sim,Nao,Sim,4,5,Sim,1
+135,26-40,Presencial,11,Nao,Sim,Sim,2,2,Nao,0
+136,18-25,E-mail,30,Sim,Nao,Sim,3,5,Sim,1
+137,60+,Telefone,3,Sim,Nao,Sim,4,5,Sim,1
+138,26-40,Chat no site,6,Sim,Nao,Sim,2,4,Sim,1
+139,41-60,Chat no site,3,Sim,Nao,Sim,4,5,Sim,1
+140,18-25,Presencial,22,Sim,Nao,Sim,5,5,Sim,1
+141,26-40,WhatsApp,1,Sim,Nao,Sim,4,5,Sim,1
+142,26-40,Telefone,7,Sim,Nao,Nao,3,3,Sim,0
+143,60+,WhatsApp,1,Sim,Nao,Sim,3,4,Sim,1
+144,26-40,Telefone,7,Nao,Nao,Nao,1,2,Nao,0
+145,26-40,WhatsApp,6,Sim,Nao,Sim,3,4,Sim,1
+146,18-25,Telefone,11,Nao,Sim,Sim,1,3,Nao,0
+147,26-40,Telefone,10,Sim,Nao,Sim,4,5,Sim,1
+148,26-40,Telefone,11,Sim,Nao,Sim,2,3,Nao,0
+149,26-40,Telefone,13,Sim,Nao,Nao,3,4,Sim,1
+150,18-25,Chat no site,2,Sim,Nao,Nao,3,4,Sim,1
+151,41-60,Chat no site,6,Sim,Sim,Nao,3,4,Sim,1
+152,41-60,Telefone,15,Nao,Sim,Sim,1,2,Nao,0
+153,18-25,Telefone,14,Sim,Nao,Sim,4,4,Sim,1
+154,26-40,Presencial,18,Sim,Nao,Sim,4,4,Sim,1
+155,18-25,WhatsApp,6,Nao,Nao,Sim,3,4,Sim,1
+156,41-60,WhatsApp,11,Sim,Nao,Sim,2,5,Sim,1
+157,26-40,WhatsApp,5,Sim,Nao,Sim,4,4,Sim,1
+158,41-60,Chat no site,4,Sim,Nao,Sim,4,5,Sim,1
+159,41-60,Telefone,7,Sim,Nao,Nao,2,5,Sim,1
+160,41-60,Chat no site,2,Sim,Nao,Sim,4,5,Sim,1
+161,18-25,Chat no site,2,Sim,Sim,Sim,4,5,Sim,1
+162,60+,WhatsApp,3,Sim,Nao,Sim,4,5,Sim,1
+163,18-25,E-mail,24,Sim,Nao,Sim,3,5,Nao,1
+164,18-25,Chat no site,5,Sim,Sim,Sim,4,3,Sim,0
+165,26-40,WhatsApp,6,Sim,Nao,Sim,5,4,Sim,1
+166,26-40,WhatsApp,3,Sim,Nao,Sim,5,5,Sim,1
+167,41-60,WhatsApp,8,Sim,Nao,Sim,1,3,Sim,0
+168,41-60,WhatsApp,7,Sim,Nao,Nao,3,4,Sim,1
+169,26-40,WhatsApp,5,Sim,Nao,Sim,3,4,Sim,1
+170,60+,Presencial,10,Sim,Nao,Sim,2,3,Nao,0
+171,26-40,Telefone,14,Sim,Nao,Sim,3,5,Sim,1
+172,26-40,WhatsApp,6,Sim,Nao,Sim,4,5,Sim,1
+173,18-25,Chat no site,1,Nao,Sim,Sim,1,3,Nao,0
+174,60+,Telefone,11,Sim,Nao,Sim,4,5,Sim,1
+175,18-25,Presencial,16,Sim,Nao,Sim,3,5,Sim,1
+176,18-25,Chat no site,2,Sim,Nao,Sim,3,5,Sim,1
+177,26-40,Telefone,13,Sim,Nao,Sim,5,5,Sim,1
+178,60+,WhatsApp,2,Sim,Nao,Sim,3,4,Sim,1
+179,41-60,Presencial,24,Sim,Nao,Nao,3,4,Sim,1
+180,41-60,Chat no site,7,Nao,Sim,Sim,1,3,Sim,0
+181,41-60,Presencial,13,Sim,Nao,Sim,5,5,Sim,1
+182,41-60,WhatsApp,6,Sim,Sim,Nao,3,2,Sim,0
+183,26-40,E-mail,1,Nao,Sim,Sim,2,3,Nao,0
+184,26-40,Chat no site,2,Sim,Nao,Sim,4,5,Sim,1
+185,41-60,WhatsApp,5,Sim,Nao,Nao,2,4,Nao,1
+186,41-60,Telefone,6,Nao,Nao,Sim,3,4,Nao,1
+187,26-40,Chat no site,6,Nao,Sim,Sim,2,3,Nao,0
+188,18-25,WhatsApp,11,Sim,Nao,Sim,3,5,Sim,1
+189,41-60,Telefone,5,Sim,Nao,Sim,3,5,Sim,1
+190,18-25,E-mail,15,Sim,Nao,Sim,3,5,Sim,1
+191,60+,WhatsApp,6,Sim,Nao,Sim,4,5,Sim,1
+192,18-25,Telefone,20,Sim,Nao,Sim,3,5,Sim,1
+193,18-25,Telefone,5,Sim,Nao,Sim,4,5,Nao,1
+194,41-60,WhatsApp,6,Sim,Nao,Sim,3,5,Nao,1
+195,18-25,E-mail,45,Nao,Sim,Sim,2,4,Sim,1
+196,18-25,Chat no site,1,Sim,Nao,Sim,3,4,Sim,1
+197,26-40,WhatsApp,2,Sim,Nao,Nao,5,5,Sim,1
+198,41-60,Presencial,12,Sim,Nao,Sim,2,4,Nao,1
+199,18-25,E-mail,19,Nao,Sim,Sim,3,3,Sim,0
+200,26-40,WhatsApp,8,Sim,Nao,Sim,5,5,Sim,1
+201,41-60,E-mail,27,Sim,Nao,Sim,2,5,Sim,1
+202,60+,WhatsApp,1,Sim,Nao,Sim,5,5,Sim,1
+203,26-40,Presencial,18,Sim,Nao,Sim,4,5,Sim,1
+204,18-25,Chat no site,3,Sim,Sim,Sim,4,5,Nao,1
+205,18-25,Chat no site,7,Sim,Nao,Nao,3,3,Nao,0
+206,18-25,WhatsApp,4,Sim,Nao,Nao,3,5,Sim,1
+207,18-25,E-mail,17,Sim,Nao,Sim,3,5,Sim,1

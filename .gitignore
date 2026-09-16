@@ -3,7 +3,11 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
-results/figures/*.png
-results/metrics/*.csv
-results/metrics/*.json
-results/models/*.joblib
+.pytest_cache/
+.DS_Store
+*.tmp
+*.swp
+n2/results/figures/*.png
+n2/results/metrics/*.csv
+n2/results/metrics/*.json
+n2/models/*.joblib

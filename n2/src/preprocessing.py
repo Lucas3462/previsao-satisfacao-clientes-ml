@@ -1,4 +1,5 @@
-# Integrantes: Alan Ribeiro do Carmo (10428496), Jean Pazzini Domingues (10428555), Wendell Rodrigues da Costa (10420319) e Leandro Zerbinatti (RA não informado no ambiente).
+# Integrantes: Alan Ribeiro do Carmo (10428496), Jean Pazzini Domingues (10428555) e Wendell Rodrigues da Costa (10420319).
+# Docente/orientador: Leandro Zerbinatti (leandro.zerbinatti@mackenzie.br).
 # Síntese: construção dos preprocessadores e pipelines dos três modelos.
 # Histórico:
 # Data | Autor | Alteração

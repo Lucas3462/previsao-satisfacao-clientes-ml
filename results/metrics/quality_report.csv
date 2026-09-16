@@ -1,0 +1,7 @@
+,valor
+shape,"[207, 11]"
+missing_values,"{'ID_Resposta': 0, 'Faixa_etaria': 0, 'Canal_de_atendimento': 0, 'Tempo_de_espera_minutos': 0, 'Problema_foi_resolvido': 0, 'Precisou_contato_novamente': 0, 'Atendimento_foi_cordial': 0, 'Facilidade_para_resolver_1_a_5': 0, 'Nota_para_o_atendimento_1_a_5': 0, 'Voltaria_a_comprar': 0, 'Satisfacao': 0}"
+duplicate_rows,0
+duplicate_ids,0
+target_inconsistencies,31
+target_original_values,"['Nao-Satisfeito', 'Satisfeito']"

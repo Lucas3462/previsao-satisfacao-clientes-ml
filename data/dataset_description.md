@@ -5,7 +5,7 @@
 - Arquivo: `dataset_satisfacao_atendimento.csv`
 - Origem: coleta própria por questionário, conforme a documentação acadêmica do projeto.
 - Registros: 207 respostas.
-- Anonimização: não há nomes ou identificadores pessoais no conjunto; `ID_Resposta` é apenas um identificador técnico e não é usado no modelo.
+- Anonimização: não há nomes ou identificadores pessoais no conjunto; `ID_Resposta` é apenas um identificador técnico e não é usado como feature prevista.
 
 ## Colunas
 
@@ -20,15 +20,15 @@
 | `Atendimento_foi_cordial` | Feature categórica | Avaliação da cordialidade. |
 | `Facilidade_para_resolver_1_a_5` | Feature numérica ordinal | Avaliação da facilidade para resolver o problema. |
 | `Nota_para_o_atendimento_1_a_5` | Origem do target | Nota de 1 a 5 usada para derivar a classe. |
-| `Voltaria_a_comprar` | Exploratória, excluída do modelo | Intenção de nova compra; pode ser consequência da experiência. |
-| `Satisfacao` | Auditoria, excluída de X | Rótulo original fornecido no CSV, validado mas não usado como feature. |
+| `Voltaria_a_comprar` | Exploratória, excluída de futuras features | Intenção de nova compra; pode ser consequência da experiência. |
+| `Satisfacao` | Auditoria, excluída de futuras features | Rótulo original fornecido no CSV, validado mas não usado como feature. |
 
 ## Regra do target
 
 - Nota 1, 2 ou 3: `Nao-Satisfeito` / classe 0.
 - Nota 4 ou 5: `Satisfeito` / classe 1.
 
-A auditoria encontrou 31 divergências entre o rótulo original e a regra oficial. O pipeline recalcula o target e registra a divergência em `results/metrics/quality_report.json`.
+A auditoria encontrou 31 divergências entre o rótulo original e a regra oficial. O código do N1 deriva o target em memória e registra a qualidade em `results/metrics/quality_report.csv`.
 
 ## Uso responsável
 

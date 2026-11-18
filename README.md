@@ -74,7 +74,7 @@ O N1 não apresenta desempenho de Machine Learning. Para o N2, espera-se desenvo
 A amostra de 207 registros é pequena e não necessariamente representa toda a população de clientes. Devem ser considerados privacidade, anonimização, segurança de acesso, qualidade dos dados, viés amostral, transparência e risco de interpretação incorreta. O modelo é experimental/acadêmico: suas previsões não são decisões definitivas sobre clientes e qualquer uso requer avaliação humana, revisão metodológica e monitoramento.
 
 ## Integrantes
-Alan Ribeiro do Carmo (RA 10428496), Jean Pazzini Domingues (RA 10428555) e Wendell Rodrigues da Costa (RA 10420319).
+Alan Ribeiro do Carmo (RA 10428496), Jean Pazzini Domingues (RA 10428555) e Wendell Rodrigues da Costa (RA 10420319) e Lucas Souza Santos
 
 Docente/orientador identificado na documentação original: Leandro Zerbinatti, leandro.zerbinatti@mackenzie.br. O RA dele não é aplicável ou não foi informado como integrante discente.
 
